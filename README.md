@@ -14,13 +14,13 @@ HandelGothic
 ### Versões Monocromáticas (Horizontal)
 <br>
 
-<center>![Logo Branca](ImagensLogo/LogoBranca2_1-100.jpg)</center>
+![Logo Branca](ImagensLogo/LogoBranca2_1-100.jpg)
 <br><br>
-<center>![Logo Branca](ImagensLogo/LogoPreta-100.jpg)</center>
+![Logo Branca](ImagensLogo/LogoPreta-100.jpg)
 
 ### Versões Monocromáticas (Vertical)
 <br>
 
-<center>![Logo Branca](ImagensLogo/LogoSimbBranca2_1-100.jpg)</center>
+![Logo Branca](ImagensLogo/LogoSimbBranca2_1-100.jpg)
 <br><br>
-<center>![Logo Branca](ImagensLogo/LogoSimbPreta-100.jpg)</center>
+![Logo Branca](ImagensLogo/LogoSimbPreta-100.jpg)
