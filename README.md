@@ -1,20 +1,26 @@
-# Brand
 
 ![Logo do Cades](ImagensLogo/LogoCADES.png)
 
-## Guia de uso da marca do CADES
+### Cor
 
-### Cores:
+| Cor                                        | HEX     | RGB          | CMYK                |
+|--------------------------------------------|---------|--------------|---------------------|
+| <span style="color:#070742">Azul</span>    | #070742 | 7, 7, 66     | 100%, 95%, 41%, 53% |
+| <span style="color:#E4BB12">Amarelo</span> | #E4BB12 | 228, 187, 18 | 9%, 22%, 94%, 1%    |
 
-- Azul
-  - HEX: #070742
-  - RGB: 7, 7, 66
-  - C: 100%, M: 95%, Y: 41%, K: 53%
-- Amarelo
-  - HEX: #E4BB12
-  - RGB: 228, 187, 18
-  - C: 9%, M: 22%, Y: 94%, K: 1%
+### Fonte
+HandelGothic
 
-### Fonte:
+### Versões Monocromáticas (Horizontal)
+<br>
 
-- HandelGothic
+![Logo Branca](ImagensLogo/LogoBranca2_1-100.jpg)
+<br><br>
+![Logo Branca](ImagensLogo/LogoPreta-100.jpg)
+
+### Versões Monocromáticas (Vertical)
+<br>
+
+![Logo Branca](ImagensLogo/LogoSimbBranca2_1-100.jpg)
+<br><br>
+![Logo Branca](ImagensLogo/LogoSimbPreta-100.jpg)
