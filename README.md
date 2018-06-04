@@ -14,13 +14,25 @@ HandelGothic
 ### Versões Monocromáticas (Horizontal)
 <br>
 
-![Logo Branca](ImagensLogo/LogoBranca2_1-100.jpg)
+![Logo Amarela](ImagensLogo/LogoCadesAmarela.png)
 <br><br>
-![Logo Branca](ImagensLogo/LogoPreta-100.jpg)
+![Logo Azul](ImagensLogo/LogoCadesAzul.png)
+<br><br>
+![Logo Branca](ImagensLogo/LogoCadesBranca2.jpg)
+<br><br>
+![Logo Preta e Branca](ImagensLogo/LogoCadesP&B.png)
+<br><br>
+![Logo Preta](ImagensLogo/LogoCadesPreta.png)
 
 ### Versões Monocromáticas (Vertical)
 <br>
 
-![Logo Branca](ImagensLogo/LogoSimbBranca2_1-100.jpg)
+![Logo Simbolo](ImagensLogo/LogoCadesSimbolo.png)
 <br><br>
-![Logo Branca](ImagensLogo/LogoSimbPreta-100.jpg)
+![Logo Amarela](ImagensLogo/LogoCadesSimboloAmarelo.png)
+<br><br>
+![Logo Azul](ImagensLogo/LogoCadesSimboloAzul.png)
+<br><br>
+![Logo Preta e Branca](ImagensLogo/LogoCadesSimboloP&B.png)
+<br><br>
+![Logo Preta](ImagensLogo/LogoCadesSimboloPreta.png)
