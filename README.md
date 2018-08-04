@@ -1,38 +1,81 @@
+<p align="center">
+<img src="src/png/cor-horizontal.png" width="400" alt="Logo da CADES (Célula Acadêmica de Desenvolvimento de Software)" />
+</p>
 
-![Logo do Cades](ImagensLogo/LogoCADES.png)
+<p align="center">:art: Guias e regras para a utilização da marca CADES.</p>
 
-### Cor
 
-| Cor     | HEX     | RGB          | CMYK                |
-|---------|---------|--------------|---------------------|
-| Azul    | #070742 | 7, 7, 66     | 100%, 95%, 41%, 53% |
-| Amarelo | #E4BB12 | 228, 187, 18 | 9%, 22%, 94%, 1%    |
+## Logotipo
 
-### Fonte
-HandelGothic
+Nossa marca foi decidida através de uma [votação democrática (#6)](https://github.com/cades-ifrn/sobre/issues/6).
 
-### Versões Monocromáticas (Horizontal)
-<br>
+### Formatos
 
-![Logo Amarela](ImagensLogo/LogoCadesAmarela.png)
-<br><br>
-![Logo Azul](ImagensLogo/LogoCadesAzul.png)
-<br><br>
-![Logo Branca](ImagensLogo/LogoCadesBranca2.jpg)
-<br><br>
-![Logo Preta e Branca](ImagensLogo/LogoCadesP&B.png)
-<br><br>
-![Logo Preta](ImagensLogo/LogoCadesPreta.png)
+* [JPG](/src/jpg/)
+* [PNG](/src/png/)
+* [SVG](/src/svg/)
+* [AI](/src/ai/)
 
-### Versões Monocromáticas (Vertical)
-<br>
+## Cores
 
-![Logo Simbolo](ImagensLogo/LogoCadesSimbolo.png)
-<br><br>
-![Logo Amarela](ImagensLogo/LogoCadesSimboloAmarelo.png)
-<br><br>
-![Logo Azul](ImagensLogo/LogoCadesSimboloAzul.png)
-<br><br>
-![Logo Preta e Branca](ImagensLogo/LogoCadesSimboloP&B.png)
-<br><br>
-![Logo Preta](ImagensLogo/LogoCadesSimboloPreta.png)
+### Hex
+
+* Azul `#070742`
+* Amarelo `#E4BB12`
+
+### RGB
+
+* Azul `7, 7, 66`
+* Amarelo ` 228, 187, 18` 
+
+### CMYK
+
+* Azul `100%, 95%, 41%, 53%`
+* Amerelo `9%, 22%, 94%, 1%`
+
+### Tipografia
+
+**HandelGothic**
+
+## Versões
+
+### Horizontal
+
+##### Preto e Branco
+
+![Versão hozizontal (com texto) em preto e branco](src/png/p&b-horizontal.png)
+
+##### Preto
+
+![Versão hozizontal (com texto) em preto](src/png/preta-horizontal.png)
+
+##### Branco
+
+![Versão hozizontal (com texto) em branco](src/jpg/branca-horizontal.jpg)
+
+##### Azul
+
+![Versão hozizontal (com texto) em azul](src/png/azul-horizontal.png)
+
+##### Amarelo
+
+![Versão hozizontal (com texto) em amarelo](src/png/amarelo-horizontal.png)
+
+### Símbolo
+
+##### Normal
+
+![Versão do símbolo (sem texto) normal](src/png/simbolo-cor.png)
+
+##### Vazado
+
+![Versão do símbolo (sem texto) vazado](src/png/simbolo-vazado.png)
+
+##### Preenchido
+
+![Versão do símbolo (sem texto) preenchido](src/png/simbolo-preenchido.png)
+
+
+## Licença
+
+MIT &copy; CADES
