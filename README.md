@@ -33,7 +33,7 @@ Nossa marca foi decidida através de uma [votação democrática (#6)](https://g
 * Azul `100%, 95%, 41%, 53%`
 * Amerelo `9%, 22%, 94%, 1%`
 
-### Tipografia
+## Tipografia
 
 **HandelGothic**
 
