@@ -35,7 +35,7 @@ Nossa marca foi decidida através de uma [votação democrática (#6)](https://g
 
 ## Tipografia
 
-**HandelGothic**
+**Handel Gothic**
 
 ## Versões
 
